@@ -25,7 +25,9 @@ contender in 2027.
 - HR/9 allowed ranks 100th percentile — best in the entire 
   65 team dataset
 - OPS of .778 ranks 3.1st percentile vs tournament average of .864
-- K% ranks 0th percentile — highest strikeout rate in the dataset
+- - K% of 25.9% ranks 18.8th percentile. UNF strikes out more 
+  than 81% of tournament teams, reflecting a roster wide 
+  plate discipline gap
 - Linear regression model achieves R² of 0.891 predicting run 
   production from OBP and SLG
 - Raising both OBP and SLG to tournament averages projects to add 
