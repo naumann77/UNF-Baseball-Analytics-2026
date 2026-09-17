@@ -126,6 +126,26 @@ UNF-Baseball-Analytics-2026/
 
 ---
 
+## Roster Turnover Analysis (2026 → 2027)
+
+A second notebook analyzing UNF's roster transition and 
+quantifying the production gap incoming players must fill 
+to match 2026 output and reach tournament field averages.
+
+Key findings:
+- 69% of innings pitched and 75% of starts are departing
+- 51% of home run power is departing
+- Departing players represent UNF's best statistical 
+  profiles — highest strikeout arms and most disciplined 
+  hitters are leaving at higher rates than the rest
+- Back-solved required AVG, OBP, and ERA targets for 
+  incoming 2027 players
+- K-means clustering identified three distinct pitcher 
+  profiles with best profile departing at 66.7% rate
+
+Notebook: notebooks/UNF_Roster_Turnover_Analysis.ipynb
+
+---
 ## Author
 
 Richard Naumann  
